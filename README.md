@@ -11,3 +11,6 @@ This Python command line app that uses Firebase authentication.
   * Verify whether the email already belongs to a user
   * Sign in with email + password
   * Keep track of the application's current user.
+ 
+## Requirements: 
+Pyrebase wrapper is required. Install it with pip: **pip install pyrebase** 
